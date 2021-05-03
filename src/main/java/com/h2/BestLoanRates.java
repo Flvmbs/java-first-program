@@ -37,6 +37,3 @@ public class BestLoanRates {
     return 0.0f;
   }
 }
-    
-    
-      
