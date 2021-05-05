@@ -54,5 +54,3 @@ for (int i = 0; i < creditsAsString.length; i++) {
   System.out.println("New Savings = " + calculator.calculate());
 }
 }
-  
- 
